@@ -1,4 +1,4 @@
-# deepEye - Anomaly Detection for Quality Control
+# deepEye - An Anomaly Detection for Quality Control
 
 <div align="center">
 
