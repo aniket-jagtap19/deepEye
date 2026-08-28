@@ -91,3 +91,5 @@ pip install -r requirements.txt
 5. Regions with low similarity are identified as anomalies or defects.
 
 ---
+
+<!-- Automated maintenance update - 2026-08-28 22:40:01 -->
